@@ -69,3 +69,35 @@ Academic Group Project – University of Jeddah
 Data Science Student
 
 *This project was completed collaboratively as part of an academic course.*
+
+
+## Project Visualizations
+
+### Exploratory Data Analysis (EDA)
+
+**Box Plot**
+![EDA Box Plot](EDA_Box_Plot.png)
+
+**Scatter Plot**
+![EDA Scatter Plot](EDA_Scatter_Plot.png)
+
+### Decision Tree Modeling
+
+**Decision Tree Model**
+![Decision Tree Model](Decision_Tree_Model.png)
+
+**Model Comparison**
+![Decision Tree Comparison](Decision_Tree_Comparison.png)
+
+### K-Means Clustering
+
+**Patient Clustering**
+![K-Means Clustering](KMeans_Clustering.png)
+
+**Cluster Sizes**
+![K-Means Cluster Sizes](KMeans_Cluster_Sizes.png)
+
+### Cluster-Based Decision Tree
+
+![Cluster-Based Decision Tree](Cluster_Based_Decision_Tree.png)
+
